@@ -25,7 +25,7 @@
 // 
 // 3.-CREAR OTRO ARRAY DONDE ALMACENAMOS LA ID DEL SELECT, LLAMAMOS AL ARRAY ANTERIOR Y ASIGNAMOS UN NOMBRE AL STORAGE
 // 
-//          ar arraySelectPaises = {
+//          var arraySelectPaises = {
 //             idSelect: "idSelectPaises",
 //             arrayData: arrayPaises,
 //             strValuePreseleccionado: "pe", //<--OPCIONAL, AQUI SE PUEDE INGRESAR EL ID DEL OPTION QUE QUEREMOS POR DEFAULT
